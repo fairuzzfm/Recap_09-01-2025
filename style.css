@@ -1,6 +1,10 @@
 main {
     background-color: indianred;
 }
+header h1 {
+    color: white;
+    border: solid 1px black;
+}
 .mainheader {
     background-color: lightcoral;
 }
