@@ -4,6 +4,7 @@ main {
 header h1 {
     color: white;
     border: solid 1px black;
+    display: flex;
 }
 .mainheader {
     background-color: lightcoral;
